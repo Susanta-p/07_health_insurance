@@ -1,7 +1,10 @@
 
 class user{
 	int a = 10;
+
+bollean status =true;	
+
 }
 
-this is sample text data
+
 
