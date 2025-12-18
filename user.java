@@ -5,6 +5,8 @@ class user{
 bollean status =true;	
 
 double price = 10.40;
+
+int k = 20;
 }
 
 
