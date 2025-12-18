@@ -4,6 +4,7 @@ class user{
 
 bollean status =true;	
 
+double price = 10.40;
 }
 
 
